@@ -21,7 +21,7 @@ static int jsoneq(const char *json, jsmntok_t *tok, const char *s) {
 }
 
 int main() {
-	int i = 0;
+	int i;
 	int r = 0;
 	jsmn_parser p;
 	jsmntok_t t[128]; /* We expect no more than 128 tokens */
