@@ -1,4 +1,4 @@
-#ifndef __JSMN_H_
+fndef __JSMN_H_
 #define __JSMN_H_
 
 #include <stddef.h>
