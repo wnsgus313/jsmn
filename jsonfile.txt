@@ -1,0 +1,2 @@
+{"user": "junhyeon", "age": 21, "major": "computer science",
+	"subject" ["data structure", "oss", "logic design", "java"]}
